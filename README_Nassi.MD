@@ -33,5 +33,11 @@ Blabla
 
 Bla
 
-##Tables
+## Tables
+
+| Left columns | Right Columns |
+| ------------- | ------------- |
+| Left foo | Right foo |
+| Left bar  | Right bar  |
+| Left baz  | Right baz  |
 

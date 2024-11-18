@@ -9,14 +9,14 @@
 # Reporting Security Issues
 
 ## Introduction
---Blablabla
+*Blablabla
 
 ## Please follow these steps:
 1. Do Not Report Security Vulnerabilities Publicly 
 Guai
 
 2. Email us directly
---Risponderemo il prima possibile
+*Risponderemo il prima possibile
 - Qui
 - Quo 
 - Qua

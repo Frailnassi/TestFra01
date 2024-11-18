@@ -41,3 +41,6 @@ Bla
 | Left bar  | Right bar  |
 | Left baz  | Right baz  |
 
+## Blocks of Code
+jblisdjfsoaringioòjsnvljhario<òndjfairu
+

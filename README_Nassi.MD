@@ -42,5 +42,5 @@ Bla
 | Left baz  | Right baz  |
 
 ## Blocks of Code
-`jblisdjfsoaringioòjsnvljhario<òndjfairu`
+```jblisdjfsoaringioòjsnvljhario<òndjfairu```
 

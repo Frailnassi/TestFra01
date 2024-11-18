@@ -22,10 +22,9 @@ Risponderemo il prima possibile
 - Qua
 
 ## What Will Happen Next?
-<ol>
-<li> Boh </li>
-<li> Boh </li>
-<li> Boh </li>
-<li> Boh </li>
-<li> Boh </li>
-</ol>
+- Boh 
+- Boh 
+- Boh 
+- Boh 
+- Boh 
+
